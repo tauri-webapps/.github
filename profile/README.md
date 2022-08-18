@@ -4,4 +4,4 @@ The collection is still in progress of beeing created. If you're here early, you
 
 Feel free to leave a star on those apps you like to see completed first.
 
-*There is no connection to the websites, services or the Tauri project itself - the WebApps can all to be considered unoffical.*
+Please note: *There is no connection to the websites, services or the Tauri project itself - the WebApps can all to be considered unoffical.*
